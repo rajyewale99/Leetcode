@@ -28,8 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
 | [0929-unique-email-addresses](https://github.com/rajyewale99/Leetcode/tree/master/0929-unique-email-addresses) |
+| [0977-squares-of-a-sorted-array](https://github.com/rajyewale99/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/rajyewale99/Leetcode/tree/master/0648-replace-words) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rajyewale99/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/rajyewale99/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
