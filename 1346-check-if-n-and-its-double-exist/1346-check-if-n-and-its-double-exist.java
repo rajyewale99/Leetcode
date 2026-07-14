@@ -1,11 +1,14 @@
 class Solution {
     public boolean checkIfExist(int[] arr) {
-        HashSet<Integer>set = new HashSet<>();
-        
-        for(int i : arr){
-            if(set.contains(i*2) || (set.contains(i/2) && i%2==0)){
+        HashMap<Integer, Integer>map = new HashMap<>();
+        for(int i=0; i<arr.length; i++){
+            map.put(arr[i], i);
+        }
+        for(int i=0; i<arr.length; i++){
+            int curr = arr[i];
+            if(map.containsKey(curr*2) && map.get(curr*2)!=i){
                 return true;
-            }set.add(i);
+            }
         }
         return false;
     }
